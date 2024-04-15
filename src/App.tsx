@@ -1,10 +1,9 @@
 import React from 'react';
+import GamePage from './pages/GamePage';
 
 function App() {
   return (
-    <>
-			Hello World
-		</>
+     <GamePage/>
   );
 }
 
